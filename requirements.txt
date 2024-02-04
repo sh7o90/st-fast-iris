@@ -3,3 +3,4 @@ pickle
 streamlit
 requests
 numpy
+scikit-learn
